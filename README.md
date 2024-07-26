@@ -37,7 +37,7 @@ El sistema registra usuarios en una base de datos MySql teniendo en cuenta todas
 * Se requiere una versión de PHP/7.3.2, recomiendo xampp -v (7.3.2-2).
 * Abrir la carpeta que contiene el proyecto y ejecutar (php artisan serve) o tambien puede jecutar (php artisan serve --port=8001)
 
-## <a href="https://youtu.be/zKfy2J88vQ4" target="_blank">DEMOSTRACIÓN FUNCIONAL</a>
+## <a href="https://youtu.be/zKfy2J88vQ4" target="_blank"> VER DEMOSTRACIÓN FUNCIONAL</a>
 
 
 Desarrollado
