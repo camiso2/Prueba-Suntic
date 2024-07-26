@@ -15,6 +15,7 @@ Utilidades  :: Registro de usuarios
 * Encriptación yt desencriptación de Contraseñas con hash sha256 bajo secret_ket(string personalizado).
 * Almacena los datos en una base de datos relacional(MySql).
 * Clase para codificación de la respuesta entregada bajo http code response.
+* Alertas de registro de usuarios o errores del sistema.
 
 
 Tecnologías Usadas
@@ -28,6 +29,13 @@ LIBRERIAS EXTERNAS
 * <a href="https://sweetalert2.github.io/">Sweet Alert2</a>
 * <a href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">Bootstrap 4</a>
 </p>
+
+Pasos para probar el proyecto
+* Clonar el proyecto : git clone https://github.com/camiso2/Prueba-Suntic.git
+* Decomprimir el archivo (Prueba-Suntic.rar).
+* Importar la base de datos a MySql (suntic.sql) o tambien se puede crear la base de datos según el nombre de DB_DATABASE del documento .env y ejecutar en la cosola (php artisan migrate)
+* Se requiere una versión de PHP/7.3.2, recomiendo xampp -v (7.3.2-2).
+* Abrir la carpeta que contiene el proyecto y ejecutar (php artisan serve) o tambien puede jecutar (php artisan serve --port=8001)
 
 
 Desarrollado
