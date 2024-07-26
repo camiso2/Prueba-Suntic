@@ -16,6 +16,7 @@ El sistema registra usuarios en una base de datos MySql teniendo en cuenta todas
 * Almacena los datos en una base de datos relacional(MySql).
 * Clase para codificación de la respuesta entregada bajo http code response.
 * Alertas de registro de usuarios o errores del sistema.
+* Sistema de precarga para informar al usuario que el sotfware esta realizando un proceso.
 
 
 ##Tecnologías Usadas
